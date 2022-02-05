@@ -2,7 +2,7 @@
   "name": "redux-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jlguozin.github.io/ReduxToolkitCounter",
+  "homepage": "https://jlguozin.github.io/redux-app",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^5.16.2",
